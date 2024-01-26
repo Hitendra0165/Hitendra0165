@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitendra Bhamare</h1>
-<h3 align="center">I’m currently looking for Data Science and Data Analytics Role ⚡ I’m interested in Python | MySQL | PostgreSQL | Advance Excel | Machine Learning | Deep Learning | Tableau | NLP | PowerBi | Google Looker Studio | Statistics 👀 I’m looking for positions as Data Scientist / Data Analyst / Buisness Analyst</h3>
+<h3 align="center">I’m currently looking for Data Science, Business Analyst, Machine Learning and Data Analytics Role ⚡ I’m interested in Python | MySQL | PostgreSQL | Advance Excel | Machine Learning | Deep Learning | Tableau | NLP | PowerBi | Google Looker Studio | Statistics 👀 I’m looking for positions as Data Scientist / Data Analyst / Buisness Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitendra0165&label=Profile%20views&color=0e75b6&style=flat" alt="hitendra0165" /> </p>
 
